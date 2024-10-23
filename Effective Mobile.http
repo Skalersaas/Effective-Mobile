@@ -1,0 +1,8 @@
+@Effective_Mobile_HostAddress = http://localhost:5184
+
+GET {{Effective_Mobile_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+POST {{Effective_Mobile_HostAddress}}/order/upload-file
+Accept:multipart/form-data

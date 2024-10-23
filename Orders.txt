@@ -1,0 +1,5 @@
+Number=12s;Weight=35;Delivery-Time=2005-10-25 12:35:23;District=12;
+Number=123s;Weight=salsa;Delivery-Time=2005-10-25 12:35:23;District=12;
+Number=124s12;Weight=35;Delivery-Time=2025-10-25 12:35:23;District=12;
+Number=124s;Weight=35;Delivery-Time=2025-10-25 12:35:23;District=12;
+Number=124s;Weight=35;Delivery-Time=2025-10-25 12:35:23;District=1s2;
