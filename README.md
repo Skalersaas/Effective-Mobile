@@ -14,9 +14,9 @@ The **Effective Mobile** application is a test project designed for managing ord
 ### Sending Data
 
 To send data in TXT format, use this structure, order of parameters does not matter:
-
+```
 Number=order_number;Weight=order_weight;Delivery-Time=delivery_time;District=district_number;
-
+```
 For JSON format, use this structure:
 
 ```json
